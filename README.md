@@ -4,10 +4,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hackers%20Aprovado&fontSize=65&fontColor=00ff00&animation=fadeIn&fontAlignY=50" />
 </p>
-<!-- ===================== BANNER SOFISTICADO ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=200&section=header&text=Hackers%20Aprovado&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
-</p>
 
 <h2 align="center">🛡️ Desenvolvedor Full Stack • Hacker Ético • Automação & Segurança</h2>
 
@@ -23,16 +19,6 @@ Sou **hackersaprovado**, desenvolvedor **Full Stack** com foco em **segurança, 
 Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **performance, qualidade de código e ética profissional**.
 
 🎯 **Missão:** transformar ideias em sistemas reais usando tecnologia de forma inteligente e responsável.
-
----
-
-## 🌐 Contato & Redes
-
-🌍 Website: https://hackersaprovado.lovable.app  
-📘 Facebook: https://facebook.com/hackersaprovado  
-▶️ YouTube: https://youtube.com/@hackersaprovado  
-📧 Email: hackersaprovado@gmail.com  
-📞 Contacto: +258 872 968 667  
 
 ---
 
@@ -54,40 +40,6 @@ Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **perf
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
 </p>
-
----
-
-## 🔐 Segurança & Mentalidade Hacker
-
-🛡️ **Princípios**
-- Código limpo e seguro  
-- Validação e sanitização de dados  
-- Princípio do menor privilégio  
-- Automação responsável  
-
-🧪 **Áreas de Atuação**
-- Segurança Web  
-- Análise de vulnerabilidades  
-- Hardening de sistemas  
-- DevSecOps  
-
-> *“Hackear é compreender profundamente para proteger.”*
-
----
-
-## 🚀 Projetos em Destaque
-
-🔹 **Web Security API** – API REST segura  
-`Node.js • TypeScript • JWT`
-
-🔹 **Automação Inteligente** – Scripts de produtividade  
-`Python • Bash`
-
-🔹 **Sistema Full Stack** – Frontend + Backend  
-`HTML • CSS • JS • PHP`
-
-🔹 **Ferramentas Hacker Ético** – Projetos educacionais  
-`Python • Go`
 
 ## 📈 Atividade GitHub
 
@@ -151,19 +103,6 @@ Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **perf
 ✔️ Conteúdo Educacional  
 
 ---
-
-✔️ Este gráfico **mostra subidas e descidas reais**, não apenas alta contínua.
-
----
-
-## ❤️ Heartbeat Hacker
-
-<p align="center">
-  <img src="https://metrics.lecoq.io/hackersaprovado?template=terminal&base.activity=1&base.community=1&base.metadata=0&config.theme=dark&config.timezone=Africa/Maputo" />
-</p>
-
-✔️ Aqui você vê **picos, quedas, ritmo e constância real**  
-✔️ Não fica “sempre em alta” artificial  
 
 ## 🏢 Perfil Corporativo
 
