@@ -1,4 +1,4 @@
-# hackersBio all information
+# HackersBio
 
 <!-- ===================== BANNER ===================== -->
 <p align="center">
