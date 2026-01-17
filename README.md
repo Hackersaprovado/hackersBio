@@ -15,31 +15,14 @@
 
 ## 👨‍💻 Biografia
 
-Sou **hackersaprovado**, desenvolvedor **Full Stack** com foco em **segurança, automação e boas práticas de desenvolvimento**.  
+Sou **hackersaprovado**, desenvolvedor **Full Stack** com foco em **segurança, automação e boas práticas de desenvolvimento**.
+
 Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **performance, qualidade de código e ética profissional**.
 
 🎯 **Missão:** transformar ideias em sistemas reais usando tecnologia de forma inteligente e responsável.
 
+[-->] Aberto a **freelas, contratos e parcerias profissionais**...
 ---
-
-## 💻 Stack Tecnológica
-
-### 🔹 Linguagens
-🐍 Python • 🐘 PHP • ⚡ JavaScript • 🔷 TypeScript • 🐹 Go • 🐚 Bash  
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,bash&theme=dark" />
-</p>
-
-### 🔹 Front-end
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
-
-### 🔹 Back-end & Runtime
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-</p>
 
 ## 📈 Atividade GitHub
 
@@ -91,6 +74,14 @@ Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **perf
   </a>
 </p>
 
+📺 Conteúdos sobre:
+- Programação
+- Segurança
+- Automação
+- Tecnologia
+
+🔗 https://youtube.com/@hackersaprovado  
+
 > Estrutura pronta para **atualizar automaticamente via feed do YouTube**.
 
 ## 🚀 O que eu faço
@@ -105,9 +96,6 @@ Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **perf
 ---
 
 ## 🏢 Perfil Corporativo
-
-Desenvolvedor Full Stack com experiência em **aplicações web, APIs, automações e segurança da informação**.  
-Aberto a **freelas, contratos e parcerias profissionais**.
 
 ---
 
@@ -125,16 +113,18 @@ Crio soluções digitais **modernas, escaláveis e seguras**, sempre priorizando
 🎯 **Missão:** transformar ideias em sistemas reais com tecnologia ética e inteligente.
 
 ### 🇺🇸 EN
-I'm **hackersaprovado**, a **Full Stack Developer** focused on **security, automation, and modern development best practices**.  
+I'm **hackersaprovado**, a **Full Stack Developer** focused on **security, automation, and modern development best practices**.
+
 I build **secure, scalable, and high-performance digital solutions**, driven by continuous learning and clean code.
 
 ---
 
 ## 🌐 Contato | Contact
 
-🌍 Website: https://hackersaprovado.lovable.app  
-📘 Facebook: https://facebook.com/hackersaprovado  
-▶️ YouTube: https://youtube.com/@hackersaprovado  
+🌍 Website: https://hackersaprovado.lovable.app
+
+📘 Facebook: https://facebook.com/hackersaprovado
+
 📧 Email: hackersaprovado@gmail.com  
 📞 Contact: +258 872 968 667  
 
@@ -176,20 +166,6 @@ I build **secure, scalable, and high-performance digital solutions**, driven by 
 - DevSecOps  
 
 > *“Hackear é entender profundamente para proteger.”*
-
-## 🎥 Conteúdo no YouTube
-
-📺 Conteúdos sobre:
-- Programação
-- Segurança
-- Automação
-- Tecnologia
-
-🔗 https://youtube.com/@hackersaprovado  
-
-*(Feed automático pronto para integração futura)*
-
----
 
 <p align="center">
   ⭐ Se algum projeto te ajudar, deixe uma estrela<br>
