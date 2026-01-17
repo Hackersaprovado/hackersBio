@@ -1,39 +1,156 @@
 # HackersBio
 
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== BANNER MATRIX ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B0000&height=240&section=header&text=Hackersaprovado&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" />
-</p>
-
-<!-- ===================== BANNER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=Hackers%20Aprovado&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=55" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=220&section=header&text=Hackers%20Aprovado&fontSize=65&fontColor=00ff00&animation=fadeIn&fontAlignY=50" />
 </p>
 
 <h2 align="center">🛡️ Desenvolvedor Full Stack • Hacker Ético • Automação & Segurança</h2>
-
-<p align="center">
-  <i>Secure code. Clean systems. Continuous evolution.</i>
-</p>
+<p align="center"><i>Secure code. Clean systems. Continuous evolution.</i></p>
 
 ---
 
 ## 👨‍💻 Biografia
 
-Sou **hackersaprovado**, desenvolvedor **Full Stack** com foco em **segurança, automação e boas práticas de desenvolvimento**.  
-Crio soluções digitais **modernas, escaláveis e seguras**, sempre priorizando **performance, qualidade de código e ética profissional**.
+Sou **hackersaprovado**, desenvolvedor **Full Stack** focado em **segurança, automação e boas práticas**.  
+Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **performance, qualidade de código e ética hacker**.
 
-🎯 **Missão:** transformar ideias em sistemas reais utilizando tecnologia de forma inteligente e responsável.
+🎯 **Missão:** transformar ideias em sistemas reais usando tecnologia de forma inteligente e responsável.
 
 ---
 
 ## 🌐 Contato & Redes
 
-🌍 Website: https://hackersaprovado.lovable.app  
-📘 Facebook: https://facebook.com/hackersaprovado  
-▶️ YouTube: https://youtube.com/@hackersaprovado  
+🌍 Website: [hackersaprovado.lovable.app](https://hackersaprovado.lovable.app)  
+📘 Facebook: [hackersaprovado](https://facebook.com/hackersaprovado)  
+▶️ YouTube: [hackersaprovado](https://youtube.com/@hackersaprovado)  
 📧 Email: hackersaprovado@gmail.com  
 📞 Contacto: +258 872 968 667  
+
+---
+
+## 💻 Stack Tecnológica
+
+### 🔹 Linguagens
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,bash&theme=dark" height="40" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+</p>
+
+### 🔹 Front-end
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+</p>
+
+### 🔹 Back-end & Runtime
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="40" onmouseover="this.style.transform='scale(1.3)'" onmouseout="this.style.transform='scale(1)'" />
+</p>
+
+---
+
+## 🔐 Segurança & Mentalidade Hacker
+
+🛡️ **Princípios**
+- Código limpo e seguro  
+- Validação e sanitização  
+- Princípio do menor privilégio  
+- Automação responsável  
+
+🧪 **Áreas**
+- Segurança Web  
+- Análise de vulnerabilidades  
+- Hardening de sistemas  
+- DevSecOps  
+
+> *“Hackear é compreender profundamente para proteger.”*
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| Web Security API | API REST segura | Node.js, TypeScript, JWT |
+| Automação Inteligente | Scripts monitoramento | Python, Bash |
+| Sistema Full Stack | Front + Back integrados | HTML, CSS, JS, PHP |
+| Ferramentas Hacker Ético | Projetos educacionais | Python, Go |
+
+---
+
+## 📊 Estatísticas GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hackersaprovado&show_icons=true&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersaprovado&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📈 Atividade GitHub (Zig-Zag REAL)
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/hackersaprovado" />
+</p>
+
+---
+
+## ❤️ Heartbeat de Contribuição
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hackersaprovado&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🎥 Últimos Vídeos do YouTube
+
+<p align="center">
+  <a href="https://www.youtube.com/@hackersaprovado/videos">
+    <img src="https://img.shields.io/badge/YouTube-Ultimos%20Vídeos-red?style=for-the-badge&logo=youtube" />
+  </a>
+</p>
+
+> Estrutura pronta para **atualizar automaticamente via feed do YouTube**.
+
+---
+
+## 🧠 Roadmap Público
+
+- [x] Fundamentos de Programação  
+- [x] Desenvolvimento Web  
+- [x] APIs & Back-end  
+- [x] Automação  
+- [ ] Segurança Avançada  
+- [ ] DevSecOps  
+- [ ] Cloud & Escalabilidade  
+
+---
+
+## 🏢 Perfil Corporativo
+
+Desenvolvedor Full Stack com experiência em **aplicações web, APIs, automações e segurança da informação**.  
+Aberto a **freelas, contratos e parcerias profissionais**.
+
+---
+
+## ⚔️ Assinatura Hacker
+
+> **“Código é poder. Segurança é responsabilidade. Conhecimento é liberdade.”**
+
+---
+
+<p align="center">
+  ⭐ Se algum projeto te ajudar, deixe uma estrela<br>
+  🛡️ Build smart. Hack responsibly.
+</p>
+
+<!-- ===================== FOOTER ===================== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" />
+</p>
 
 ---
 
