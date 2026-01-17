@@ -89,26 +89,11 @@ Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **perf
 🔹 **Ferramentas Hacker Ético** – Projetos educacionais  
 `Python • Go`
 
----
-
-## 📊 Estatísticas GitHub (ESTÁVEL)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackersaprovado&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 📈 Atividade GitHub (Contribuições Reais)
+## 📈 Atividade GitHub
 
 <p align="center">
   <img src="https://ghchart.rshah.org/hackersaprovado" />
 </p>
-
-✔️ Gráfico real com **altas e baixas naturais (zig‑zag)**  
-✔️ Serviço simples e **100% compatível com GitHub**
-
----
 
 ## 🧠 Roadmap Público
 
@@ -122,50 +107,7 @@ Crio soluções digitais **modernas, escaláveis e seguras**, priorizando **perf
 
 ---
 
-## 🏢 Perfil Corporativo
-
-Desenvolvedor Full Stack com experiência em **aplicações web, APIs, automações e segurança da informação**.  
-Aberto a **freelas, contratos e parcerias profissionais**.
-
----
-
-## ⚔️ Assinatura
-
-> **“Código é poder. Segurança é responsabilidade. Conhecimento é liberdade.”**
-
----
-
-<p align="center">
-  ⭐ Se algum projeto te ajudar, deixe uma estrela<br>
-  🛡️ Build smart. Hack responsibly.
-</p>
-
 <!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" />
-</p>
-</p>
-
----
-
-## 🔐 Segurança & Mentalidade Hacker
-
-🛡️ **Princípios**
-- Código limpo e seguro  
-- Validação e sanitização  
-- Princípio do menor privilégio  
-- Automação responsável  
-
-🧪 **Áreas**
-- Segurança Web  
-- Análise de vulnerabilidades  
-- Hardening de sistemas  
-- DevSecOps  
-
-> *“Hackear é compreender profundamente para proteger.”*
-
----
-
 ## 🚀 Projetos em Destaque
 
 | Projeto | Descrição | Stack |
@@ -177,23 +119,7 @@ Aberto a **freelas, contratos e parcerias profissionais**.
 
 ---
 
-## 📊 Estatísticas GitHub
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackersaprovado&show_icons=true&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersaprovado&layout=compact&theme=dark&hide_border=true" />
-</p>
-
----
-
-## 📈 Atividade GitHub (Zig-Zag REAL)
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/hackersaprovado" />
-</p>
 
 ---
 
@@ -215,84 +141,6 @@ Aberto a **freelas, contratos e parcerias profissionais**.
 
 > Estrutura pronta para **atualizar automaticamente via feed do YouTube**.
 
----
-
-## 🧠 Roadmap Público
-
-- [x] Fundamentos de Programação  
-- [x] Desenvolvimento Web  
-- [x] APIs & Back-end  
-- [x] Automação  
-- [ ] Segurança Avançada  
-- [ ] DevSecOps  
-- [ ] Cloud & Escalabilidade  
-
----
-
-## 🏢 Perfil Corporativo
-
-Desenvolvedor Full Stack com experiência em **aplicações web, APIs, automações e segurança da informação**.  
-Aberto a **freelas, contratos e parcerias profissionais**.
-
----
-
-## ⚔️ Assinatura Hacker
-
-> **“Código é poder. Segurança é responsabilidade. Conhecimento é liberdade.”**
-
----
-
-<p align="center">
-  ⭐ Se algum projeto te ajudar, deixe uma estrela<br>
-  🛡️ Build smart. Hack responsibly.
-</p>
-
-<!-- ===================== FOOTER ===================== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=100&section=footer" />
-</p>
-
----
-
-## 💻 Stack Tecnológica
-
-### 🔹 Linguagens
-🐍 Python • 🐘 PHP • ⚡ JavaScript • 🔷 TypeScript • 🐹 Go • 🐚 Bash  
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,php,js,ts,go,bash&theme=dark" />
-</p>
-
-### 🔹 Front-end
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
-</p>
-
-### 🔹 Back-end & Runtime
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" />
-</p>
-
----
-
-## 🔐 Segurança & Mentalidade Hacker
-
-🛡️ **Princípios**
-- Código limpo e seguro  
-- Validação e sanitização de dados  
-- Princípio do menor privilégio  
-- Automação responsável  
-
-🧪 **Áreas de Atuação**
-- Segurança Web  
-- Análise de vulnerabilidades  
-- Hardening de sistemas  
-- DevSecOps  
-
-> *“Hackear é compreender profundamente para proteger.”*
-
----
-
 ## 🚀 O que eu faço
 
 ✔️ Desenvolvimento Web Full Stack  
@@ -304,29 +152,11 @@ Aberto a **freelas, contratos e parcerias profissionais**.
 
 ---
 
-## 📊 Estatísticas GitHub (FUNCIONAIS)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackersaprovado&show_icons=true&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersaprovado&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## 📈 Atividade GitHub (ALTAS & BAIXAS – Zig‑Zag REAL)
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackersaprovado&bg_color=0d1117&color=8b949e&line=ffffff&point=ff0000&area=true&hide_border=true" />
-</p>
-
 ✔️ Este gráfico **mostra subidas e descidas reais**, não apenas alta contínua.
 
 ---
 
-## ❤️ Heartbeat Hacker (MÉTRICAS AVANÇADAS – MUITO ESTÁVEL)
+## ❤️ Heartbeat Hacker
 
 <p align="center">
   <img src="https://metrics.lecoq.io/hackersaprovado?template=terminal&base.activity=1&base.community=1&base.metadata=0&config.theme=dark&config.timezone=Africa/Maputo" />
@@ -334,20 +164,6 @@ Aberto a **freelas, contratos e parcerias profissionais**.
 
 ✔️ Aqui você vê **picos, quedas, ritmo e constância real**  
 ✔️ Não fica “sempre em alta” artificial  
-
----
-
-## 🧠 Roadmap Público
-
-- [x] Fundamentos de Programação  
-- [x] Desenvolvimento Web  
-- [x] APIs & Back-end  
-- [x] Automação  
-- [ ] Segurança Avançada  
-- [ ] DevSecOps  
-- [ ] Cloud & Escalabilidade  
-
----
 
 ## 🏢 Perfil Corporativo
 
@@ -361,12 +177,6 @@ Aberto a **freelas, contratos e parcerias profissionais**.
 > **“Código é poder. Segurança é responsabilidade. Conhecimento é liberdade.”**
 
 ---
-
-<p align="center">
-  ⭐ Se algum projeto te ajudar, deixe uma estrela<br>
-  🛡️ Build smart. Hack responsibly.
-</p>
-
 <!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=100&section=footer" />
@@ -428,28 +238,6 @@ I build **secure, scalable, and high-performance digital solutions**, driven by 
 
 > *“Hackear é entender profundamente para proteger.”*
 
----
-
-## 🚀 Projetos em Destaque
-
-🔹 **Web Security API**  
-API REST segura com autenticação, validação e boas práticas  
-`Node.js • TypeScript • JWT`
-
-🔹 **Automação com Python**  
-Scripts para tarefas repetitivas e monitoramento  
-`Python • Bash`
-
-🔹 **Sistema Web Full Stack**  
-Aplicação completa com frontend e backend integrados  
-`HTML • CSS • JS • PHP`
-
-🔹 **Ferramentas Hacker Ético**  
-Projetos educacionais focados em segurança  
-`Python • Go`
-
----
-
 ## 🎥 Conteúdo no YouTube
 
 📺 Conteúdos sobre:
@@ -461,39 +249,6 @@ Projetos educacionais focados em segurança
 🔗 https://youtube.com/@hackersaprovado  
 
 *(Feed automático pronto para integração futura)*
-
----
-
-## 📊 Estatísticas GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hackersaprovado&show_icons=true&theme=dark&title_color=ff0000&icon_color=ff0000&bg_color=0d1117&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hackersaprovado&layout=compact&theme=dark&title_color=ff0000&bg_color=0d1117&hide_border=true" />
-</p>
-
----
-
-## 📈 Atividade
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hackersaprovado&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff&hide_border=true" />
-</p>
-
----
-
-## 🏢 Perfil Corporativo
-
-Desenvolvedor Full Stack com experiência em **aplicações web, APIs, automações e segurança da informação**.  
-Aberto a **freelas, contratos e parcerias profissionais**.
-
----
-
-## ⚔️ Assinatura
-
-> **“Código é poder. Segurança é responsabilidade. Conhecimento é liberdade.”**
 
 ---
 
